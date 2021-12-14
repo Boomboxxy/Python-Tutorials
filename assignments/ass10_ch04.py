@@ -1,4 +1,4 @@
-names = "kaustubh,albert,jad,andres,simone,soham,aboyami,martijn,george, what"
+names = "kaustubh,albert,jad,andres,simone,soham,aboyami,martijn,george"
 
 list = []
 i = ''
